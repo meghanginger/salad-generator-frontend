@@ -1,9 +1,15 @@
 module.exports = {
   siteMetadata: {
     title: "Salad Generator",
+    description: `Make a salad that doesn't suck!`,
   },
   plugins: [
-    "gatsby-plugin-sass",
+    {
+      resolve: `gatsby-plugin-sass`,
+      options: { 
+          postCssPlugins: [require("tailwindcss")()],
+      },
+    },
     "gatsby-plugin-image",
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-sharp",

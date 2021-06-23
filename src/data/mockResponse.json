@@ -1,0 +1,101 @@
+{
+  "id": 1,
+  "saladElements": {
+    "Dressing": {
+      "name": "Avocado",
+      "elementDietaryContent": []
+    },
+    "Grains": {
+      "name": "New potatoes",
+      "elementDietaryContent": []
+    },
+    "Nuts, seeds and dried fruit": {
+      "name": "Pine nuts",
+      "elementDietaryContent": [
+        "Contains Nuts"
+      ]
+    },
+    "Cheese": {
+      "name": "Mozzarella",
+      "elementDietaryContent": [
+        "Contains animal products",
+        "Contains dairy"
+      ]
+    },
+    "Fruit and veg": {
+      "name": "Shaved carrots",
+      "elementDietaryContent": []
+    },
+    "Greens": {
+      "name": "Kale",
+      "elementDietaryContent": []
+    },
+    "Jarred veg": {
+      "name": "Roasted peppers",
+      "elementDietaryContent": []
+    },
+    "Protein": {
+      "name": "Lentils",
+      "elementDietaryContent": [
+        "Contains soy"
+      ]
+    }
+  },
+  "userDietaryRequirements": [],
+  "saladIngredients": [
+    {
+      "ingredientName": "Avocado",
+      "ingredientAmount": 1,
+      "ingredientUnit": "NO_MEASUREMENT",
+      "ingredientCategory": "FRESH_PRODUCE"
+    },
+    {
+      "ingredientName": "Carrots",
+      "ingredientAmount": 2,
+      "ingredientUnit": "NO_MEASUREMENT",
+      "ingredientCategory": "FRESH_PRODUCE"
+    },
+    {
+      "ingredientName": "New potatoes",
+      "ingredientAmount": 200,
+      "ingredientUnit": "GRAMS",
+      "ingredientCategory": "FRESH_PRODUCE"
+    },
+    {
+      "ingredientName": "Kale",
+      "ingredientAmount": 1,
+      "ingredientUnit": "BAG",
+      "ingredientCategory": "FRESH_PRODUCE"
+    },
+    {
+      "ingredientName": "Mozzarella",
+      "ingredientAmount": 150,
+      "ingredientUnit": "GRAMS",
+      "ingredientCategory": "FRIDGE"
+    },
+    {
+      "ingredientName": "Roasted peppers",
+      "ingredientAmount": 150,
+      "ingredientUnit": "GRAMS",
+      "ingredientCategory": "STORECUPBOARD"
+    },
+    {
+      "ingredientName": "Pine nuts",
+      "ingredientAmount": 100,
+      "ingredientUnit": "GRAMS",
+      "ingredientCategory": "STORECUPBOARD"
+    },
+    {
+      "ingredientName": "Lentils",
+      "ingredientAmount": 100,
+      "ingredientUnit": "GRAMS",
+      "ingredientCategory": "STORECUPBOARD"
+    },
+    {
+      "ingredientName": "Soy sauce or tamari (gluten free)",
+      "ingredientAmount": 1,
+      "ingredientUnit": "TABLESPOONS",
+      "ingredientCategory": "STORECUPBOARD"
+    }
+  ]
+}
